@@ -24,7 +24,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: dark
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kamran Saifullah - Frog Man"
   avatar : "/assets/images/profile.jpeg"
-  bio    : "Ab abnormal forg who has been thrown out by the Frog 🐸 Communit!"
+  bio    : "Ab abnormal forg who has been thrown out by the Frog 🐸 Community!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
