@@ -1,6 +1,6 @@
 ---
 title: "Chopper - An Automated Website Secuirity Headers Analyzer"
-date: 2022-03-21
+date: 2022-03-13
 categories:
   - blog
 tags:
