@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Frogs 🐸 Community! 
+title: Frogs Community 🐸! 
 email: defr0ggy@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This brings you to the pond, specifically built for the abnormal frogs have been thrown out of the Frog Community! 
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kamran Saifullah - Frog Man"
   avatar : "/assets/profile.jpeg"
-  bio    : "Ab abnormal forg who has been thrown out by the Frog 🐸 Community!"
+  bio    : "Ab abnormal forg who has been thrown out by the Frog Community! 🐸"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
