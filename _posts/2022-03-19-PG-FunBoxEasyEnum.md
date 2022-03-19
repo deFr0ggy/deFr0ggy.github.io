@@ -9,9 +9,9 @@ tags:
   - Proving Grounds
 ---
 
-![](/assets/FunBoxEasyEnum/Screenshot%202022-03-19%20at%202.31.06%20PM.png)
-
 In this write-up we are going to be solving FunBoxEasyEnum from Offensive Security Proving Grounds. 
+
+![](/assets/FunBoxEasyEnum/Screenshot%202022-03-19%20at%202.31.06%20PM.png)
 
 As always, we will begin with NMAP to find possible open ports. 
 
