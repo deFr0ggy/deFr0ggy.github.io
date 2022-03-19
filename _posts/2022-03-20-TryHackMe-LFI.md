@@ -16,9 +16,9 @@ As always, we will begin with Nmap Scan to find possible open ports.
 
 ## Nmap Scan
 
-We can observe that there are 4 ports open. 
+We can observe that there are 2 ports open. 
 
-| Port Number  |
+| Port Number  | Service Type |
 |---|---|
 | 80 | HTTP  |
 | 22 | SSH |
