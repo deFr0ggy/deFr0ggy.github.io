@@ -3,6 +3,10 @@ permalink: /articles/
 title: "Articles"
 ---
 
+<p align="center">
+  <img src="https://github.com/deFr0ggy/deFr0ggy.github.io/blob/master/assets/froggy.jpeg" width="500" height="500"/>
+</p>
+
 I have been writing articles, walkthroughs since i started in Cyber Security in order to contribute back to the community. All of my current and future articles links will be updated here! Happy Learning!
 
 ## Author Profiles
