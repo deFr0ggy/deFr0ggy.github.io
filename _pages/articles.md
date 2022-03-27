@@ -4,7 +4,7 @@ title: "Articles"
 ---
 
 <p align="center">
-  <img src="https://github.com/deFr0ggy/deFr0ggy.github.io/blob/master/assets/froggy.jpeg" width="500" height="500"/>
+  <img src="https://i.pinimg.com/originals/10/b9/06/10b9066ea3ae2d07e4e420be65349565.jpg" width="500" height="500"/>
 </p>
 
 I have been writing articles, walkthroughs since i started in Cyber Security in order to contribute back to the community. All of my current and future articles links will be updated here! Happy Learning!
