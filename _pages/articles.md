@@ -28,6 +28,7 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 9. [System Information Discovery — Gathering System Information For Malware Infections](https://kamransaifullah.medium.com/system-information-discovery-gathering-system-information-for-malware-infections-4cbe2297aeb4)
 10. [Hunting Patterns — YARA Rules — A Beginner Friendly Journey](https://kamransaifullah.medium.com/hunting-patterns-yara-rules-a-beginner-friendly-journey-e537b1981e0f)
 11. [SysInternals — The Other Way Around](https://kamransaifullah.medium.com/sysinternals-the-other-way-around-d0d009a01e48)
+12. [BITB - Browser In The Browser Attack](https://www.gispp.org/2022/03/26/browser-in-the-browser-attack-bitb-new-type-of-phishing-campaigns/)
 
 
 ## Malware Analysis
@@ -93,6 +94,7 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 38. [Dumping Router Firmware - A New Room](https://tryhackme.com/resources/blog/dumping-router-firmware)
 39. [Easy Steganography](https://tryhackme.com/resources/blog/easy-steganography)
 40. [Vulnversity - Writeup](https://tryhackme.com/resources/blog/vulnversity)
+41. [CyberSoc CTF — General Knowledge](https://medium.com/@kamransaifullah/cybersoc-ctf-general-knowledge-82eb932804ca)
 
 
 
