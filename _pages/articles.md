@@ -29,6 +29,8 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 10. [Hunting Patterns — YARA Rules — A Beginner Friendly Journey](https://kamransaifullah.medium.com/hunting-patterns-yara-rules-a-beginner-friendly-journey-e537b1981e0f)
 11. [SysInternals — The Other Way Around](https://kamransaifullah.medium.com/sysinternals-the-other-way-around-d0d009a01e48)
 12. [BITB - Browser In The Browser Attack](https://www.gispp.org/2022/03/26/browser-in-the-browser-attack-bitb-new-type-of-phishing-campaigns/)
+13. [Deeper look into Pakistan Electricity Outage and SideWinder APT Claims](https://www.linkedin.com/pulse/deeper-look-pakistan-electricity-outage-sidewinder-apt-saifullah/)
+14. [Dissecting 17 Malicious Selenium Packages Observed On PyPi](https://www.linkedin.com/pulse/dissecting-17-malicious-selenium-packages-observed-pypi-saifullah/)
 
 
 ## Malware Analysis
