@@ -15,7 +15,7 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 2. [Medium](https://medium.com/@kamransaifullah)
 3. [GISPP](https://www.gispp.org/user/kamran-saifullah/)
 4. [TryHackMe](https://blog.tryhackme.com/author/defr0ggy/)
-
+5. [LinkedIn](https://Linkedin.com/in/KamranSaifullah)
 ## Security Blogs/Articles
 
 1. [The Crown Jewels and The Pyramid of Pain](https://www.gispp.org/2021/07/25/the-crown-jewels-and-the-pyramid-of-pain/)
@@ -36,7 +36,8 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 16. [MALICIOUS PYPI PACKAGES LEADING TO PHISHING WEBSITES PART 2](https://cydefops.com/malicious-pypi-part-2)
 17. [CHINESE SCAMMERS TARGETING QATAR RESIDENTS](https://cydefops.com/chinese-sms-scams-qatar)
 18. [DISSECTING MALICIOUS PYPI PACKAGES](https://cydefops.com/dissecting-pypi-packages)
-
+19. [NadraGate Part 2 – PaperPk 200,000 Users Data At Risk](https://www.linkedin.com/pulse/nadragate-part-2-paperpk-200000-users-data-risk-kamran-saifullah/)
+20. [Deeper look into Pakistan Electricity Outage and SideWinder APT Claims](https://www.linkedin.com/pulse/deeper-look-pakistan-electricity-outage-sidewinder-apt-saifullah/)
 
 ## Malware Analysis
 
