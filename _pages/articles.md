@@ -41,6 +41,8 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 19. [NadraGate Part 2 – PaperPk 200,000 Users Data At Risk](https://www.linkedin.com/pulse/nadragate-part-2-paperpk-200000-users-data-risk-kamran-saifullah/)
 20. [Deeper look into Pakistan Electricity Outage and SideWinder APT Claims](https://www.linkedin.com/pulse/deeper-look-pakistan-electricity-outage-sidewinder-apt-saifullah/)
 21. [Installing Win 11 on Mac M1/M2 for Malware Analysis](https://kamransaifullah.medium.com/installing-win-11-on-mac-m1-m2-for-malware-analysis-25aeec725005)
+22. [Deconstructing Deception - Linguistics and Psychological Insights into Cl0p Ransomware Group](https://cydefops.com/deconstructing-deception)
+23. [Practical Malware Analysis - Labs Walkthroughs](https://github.com/deFr0ggy/PMAT-Labs-Walkthroughs)
 
 ## Malware Analysis
 
@@ -106,6 +108,19 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 39. [Easy Steganography](https://tryhackme.com/resources/blog/easy-steganography)
 40. [Vulnversity - Writeup](https://tryhackme.com/resources/blog/vulnversity)
 41. [CyberSoc CTF — General Knowledge](https://medium.com/@kamransaifullah/cybersoc-ctf-general-knowledge-82eb932804ca)
+
+### 4. Tools
+
+1. [NightOwl - An Offline Phishing Email Analyzer](https://github.com/deFr0ggy/NightOwl)
+2. [HASHER - Hash Calculations](https://github.com/deFr0ggy/HASHER)
+3. [LazyDNS - Query DNS for Records](https://github.com/deFr0ggy/LazyDNS)
+4. [Chopper - Analyzing Web Security Headers](https://github.com/deFr0ggy/Chopper)
+5. [Postman Test Script For Validating Security Headers in Postman](https://github.com/deFr0ggy/Postman-Test-Security-Headers-Analysis)
+6. [Nullog - Cleaning Logs After Your Hack](https://github.com/deFr0ggy/Nullog)
+7. [PELyzer - Analyzing PE Executables](https://github.com/deFr0ggy/PELyzer)
+8. [BasePDF - Coverting Base64 into PDFs](https://github.com/deFr0ggy/BasePDF)
+
+
 
 
 
