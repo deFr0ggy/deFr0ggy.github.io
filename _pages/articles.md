@@ -40,6 +40,7 @@ I have been writing articles, walkthroughs since i started in Cyber Security in 
 18. [DISSECTING MALICIOUS PYPI PACKAGES](https://cydefops.com/dissecting-pypi-packages)
 19. [NadraGate Part 2 – PaperPk 200,000 Users Data At Risk](https://www.linkedin.com/pulse/nadragate-part-2-paperpk-200000-users-data-risk-kamran-saifullah/)
 20. [Deeper look into Pakistan Electricity Outage and SideWinder APT Claims](https://www.linkedin.com/pulse/deeper-look-pakistan-electricity-outage-sidewinder-apt-saifullah/)
+21. [Installing Win 11 on Mac M1/M2 for Malware Analysis](https://kamransaifullah.medium.com/installing-win-11-on-mac-m1-m2-for-malware-analysis-25aeec725005)
 
 ## Malware Analysis
 
