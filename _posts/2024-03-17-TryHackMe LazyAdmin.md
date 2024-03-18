@@ -1,6 +1,6 @@
 ---
 title: "TryHackMe - LazyAdmin"
-date: 2024-03-17
+date: 2024-03-18
 categories:
   - CTF
 tags:
