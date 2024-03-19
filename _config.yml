@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Kamran Saifullah - Frog Man"
+  name   : "Kamran Saifullah"
   avatar : "/assets/profile.jpeg"
   bio    : "Ab abnormal frog who has been thrown out by the Frog Community! 🐸"
   links:
