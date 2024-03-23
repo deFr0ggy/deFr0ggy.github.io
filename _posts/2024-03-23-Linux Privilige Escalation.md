@@ -7,9 +7,6 @@ tags:
   - CTF
 ---
 
-<center><img src="https://static.wikia.nocookie.net/ozwikia/images/0/00/Frogman.png/revision/latest?cb=20130406054431" width="200" height="250"></center>
-
-
 This article is all about the commands, techniques and exploits for successfuly doing `Linux Privilige Escalation`.
 
 > Effectively these are the notes which i have taken out of multiple courses over time. 
