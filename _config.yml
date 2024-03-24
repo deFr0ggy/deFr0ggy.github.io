@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Kamran Saifullah"
   avatar : "/assets/profile.jpeg"
-  bio    : "Ab abnormal frog who has been thrown out by the Frog Community! 🐸"
+  bio    : "An abnormal frog who has been thrown out by the Frog Community! 🐸"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
